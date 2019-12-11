@@ -1,0 +1,10 @@
+/model/my_model_mobilenetv2.h5
+model/inceptionNetV3_v1_hub.h5
+
+model/mobileNetV2_v1.h5
+
+model/mobileNetV2_v2.h5
+
+*.jfif
+*.jpeg
+*.PNG
